@@ -22,7 +22,7 @@
 # Read Operation
 ## Read Operation when key is available or when  Time-To-Live is not over
 
-<img src = "/Unit_Test_Output/ReadKeywithouttimetolive.PNG" width="1366" 5height="129"/> 
+<img src = "/Unit_Test_Output/ReadKeywithouttimetolive.PNG" width="1366" height="129"/> 
 
 ## Read Operation when key is not available or when  Time-To-Live is over
 
