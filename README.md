@@ -14,3 +14,7 @@
 ## Create Operation with Same Key and different Values 
 
 <img src = "/Unit_Test_Output/Createwhensamekey.PNG" width="1000" height="500"/> 
+
+## Create Operation when key length exceeds the limit(32 chars)
+
+<img src = "/Unit_Test_Output/Createwhenkeylengthexceeds.PNG" width="1000" height="500"/> 
