@@ -1,5 +1,5 @@
 ## Freshwork-Assignment
-
+Note : Click On Images for clearer view 
 # Create Operation
 
 ## Create Operation with Key , Values and Time-To-Live 
