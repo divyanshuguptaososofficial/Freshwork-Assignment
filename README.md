@@ -25,8 +25,20 @@
 
 ## Read Operation when key is not available or when  Time-To-Live is over
 
-<img src = "/Unit_Test_Output/ReadKeywithouttimetolive.PNG" width="1000 height="300"/> 
+<img src = "/Unit_Test_Output/ReadKeywithouttimetolive.PNG" width="1000" height="300"/> 
 
 ## Read Operation when key length exceeds the limit(32 chars)
 
 <img src = "/Unit_Test_Output/Readwhenkeylengthexceeds.PNG" width="1000" height="300"/> 
+
+## Delete Operation when key is available or when  Time-To-Live is not over
+
+<img src = "/Unit_Test_Output/DeleteWhenKeyisavailable.PNG" width="1000" height="300"/> 
+
+## Delete Operation when key is not available or when  Time-To-Live is over
+
+<img src = "/Unit_Test_Output/Deletewhentimetoliveisover.PNG" width="1000" height="300"/> 
+
+## Delete Operation when key length exceeds the limit(32 chars)
+
+<img src = "/Unit_Test_Output/Deletewhebkeylengthexceeds.PNG" width="1000" height="300"/> 
