@@ -4,7 +4,7 @@
 
 ## Create Operation with Key , Values and Time-To-Live 
 
-<img src = "/Unit_Test_Output/CreatewithTimetolive.PNG" width="900" height="500"/> 
+<img src = "/Unit_Test_Output/CreatewithTimetolive.PNG" width="1358" height="402"/> 
 
 
 ## Create Operation with Key ,Values and without Time-To-Live 
