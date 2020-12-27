@@ -21,12 +21,12 @@
 
 ## Read Operation when key is available or when  Time-To-Live is not over
 
-<img src = "/Unit_Test_Output/ReadKeywithtimetolive.PNG" width="400" height="300"/> 
+<img src = "/Unit_Test_Output/ReadKeywithtimetolive.PNG" width="1000" height="300"/> 
 
 ## Read Operation when key is not available or when  Time-To-Live is over
 
-<img src = "/Unit_Test_Output/ReadKeywithouttimetolive.PNG" width="400 height="300"/> 
+<img src = "/Unit_Test_Output/ReadKeywithouttimetolive.PNG" width="1000 height="300"/> 
 
 ## Read Operation when key length exceeds the limit(32 chars)
 
-<img src = "/Unit_Test_Output/Readwhenkeylengthexceeds.PNG" width="400" height="300"/> 
+<img src = "/Unit_Test_Output/Readwhenkeylengthexceeds.PNG" width="1000" height="300"/> 
